@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_DB_PW":"_restful-shop_mongodb_",
+        "JWT_KEY":"secret"
+    }
+}
